@@ -1,0 +1,17 @@
+{
+  "name": "ホーム防犯・防災 判断トレーニング",
+  "short_name": "防災訓練",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f4",
+  "theme_color": "#263238",
+  "description": "グループホーム向けの防犯・防災判断トレーニングアプリ",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
